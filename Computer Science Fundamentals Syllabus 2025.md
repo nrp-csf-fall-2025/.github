@@ -28,10 +28,9 @@ We’ll spend most of our time designing, writing and analyzing Java programs.
 
 1. Elements of Programming  
    *variables, assignment statements, built-in data types, control flow (conditionals and loops), arrays, input & output*  
-2. Functions and Modules
-
-*modularization, program design*
-
+2. Functions and Modules   
+   *modularization, program design*
+ 
 **Spring Semester**
 
 1. Object Oriented Programming  
