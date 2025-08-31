@@ -1,6 +1,7 @@
 # Computer Science Fundamentals @ Northridge Prep
 
 [syllabus](https://github.com/nrp-csf-fall-2025/.github/blob/main/syllabus.md)
+[code examples](https://github.com/nrp-csf-fall-2025/.github/tree/main/code)
 
 ## Assignments & Tests
 
@@ -43,23 +44,26 @@ Details for future classes are tentative.
 - Th Sep 4: simulations in Scratch
   - assign: PS01 Scratch Simulation
   - class time for starting PS01
-- Fr Sep 5:
-  - getting started with GitHub
-  - how Java works (roughly) + Program development process
+- Fr Sep 5: Hello World in Java
+  - [code example](https://github.com/nrp-csf-fall-2025/.github/blob/main/code/HelloWorld.java)
 
 ### Week 3: Sep 08 - Sep 12
 
 - Mo Sep 8: present PS01 simulations
-- Tu Sep 9: Hello World in Java
-  - assign PS02 Hello World
+  - due: PS01
 - Tu Sep 9:
+  - getting started with GitHub
+  - how Java works (roughly) + Program development process
 - We Sep 10:
+  - command line arguments examples and exercises
+  - assign PS02 Hello World
 - Th Sep 11: no class (floater 6)
-- Fr Sep 12:
+- Fr Sep 12: another look at `git`, how to submit problem sets
 
 ### Week 4: Sep 15 - Sep 19
 
-- Mo Sep 15:
+- Mo Sep 15: first look at Java built-in data types
+  - due: PS02 Hello World
 - Tu Sep 16:
 - We Sep 17:
 - Th Sep 18:
