@@ -52,14 +52,17 @@ Details for future classes are tentative.
 
 - Mo Sep 8: present PS01 simulations
   - due: PS01
-- Tu Sep 9:
+- Tu Sep 9: Hello World in Java
+  - [code example](https://github.com/nrp-csf-fall-2025/.github/blob/main/code/HelloWorld.java)
+- We Sep 10:
   - getting started with GitHub
   - how Java works (roughly) + Program development process
-- We Sep 10:
-  - command line arguments examples and exercises
-  - assign PS02 Hello World
+  - if time: command line arguments examples and exercises
+  - assign: PS02 Hello World
 - Th Sep 11: no class (floater 6)
-- Fr Sep 12: another look at `git`, how to submit problem sets
+- Fr Sep 12:
+  - if needed: command line arguments examples and exercises
+  - another look at `git`, how to submit problem sets
 
 ### Week 4: Sep 15 - Sep 19
 
