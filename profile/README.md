@@ -44,8 +44,9 @@ Details for future classes are tentative.
 - Th Sep 4: simulations in Scratch
   - assign: PS01 Scratch Simulation
   - class time for starting PS01
-- Fr Sep 5: Hello World in Java
-  - [code example](https://github.com/nrp-csf-fall-2025/.github/blob/main/code/HelloWorld.java)
+- Fr Sep 5:
+  - work session for PS01
+  - new(er) students: review of first Scratch lessons
 
 ### Week 3: Sep 08 - Sep 12
 
