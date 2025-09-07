@@ -1,7 +1,8 @@
 # Computer Science Fundamentals @ Northridge Prep
 
-[syllabus](https://github.com/nrp-csf-fall-2025/.github/blob/main/syllabus.md)
-[code examples](https://github.com/nrp-csf-fall-2025/.github/tree/main/code)
+- [syllabus](https://github.com/nrp-csf-fall-2025/.github/blob/main/syllabus.md)
+- [problem sets](https://github.com/nrp-csf-fall-2025/.github/tree/main/ps)
+- [code examples](https://github.com/nrp-csf-fall-2025/.github/tree/main/code)
 
 ## Assignments & Tests
 
