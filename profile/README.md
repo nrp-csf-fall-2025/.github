@@ -10,7 +10,7 @@
 | :------------------------------------------------------------------------------------------------------------------ | :-------------- |
 | [PS00 - Create a GitHub account](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS00_github_account.pdf) | Mo Aug 25, 2025 |
 | [PS01 - Scratch Simulation](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS01_scratch_simulation.pdf)  | Mo Sep 08, 2025 |
-| PS02 - [Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Th Sep 18, 2025 |
+| [PS02 - Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Th Sep 18, 2025 |
 | PS03 - Built-In Data Types                                                                                          | TBD             |
 
 ## Log
