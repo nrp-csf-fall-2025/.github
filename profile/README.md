@@ -6,12 +6,12 @@
 
 ## Assignments & Tests
 
-| Assignment                     | Due             |
-| :----------------------------- | :-------------- |
-| PS00 - Create a GitHub account | Mo Aug 25, 2025 |
-| PS01 - Scratch Simulation      | Mo Sep 08, 2025 |
-| PS02 - Hello World             | Mo Sep 15, 2025 |
-| PS03 - Built-In Data Types     | TBD             |
+| Assignment                                                                                                          | Due             |
+| :------------------------------------------------------------------------------------------------------------------ | :-------------- |
+| [PS00 - Create a GitHub account](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS00_github_account.pdf) | Mo Aug 25, 2025 |
+| [PS01 - Scratch Simulation](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS01_scratch_simulation.pdf)  | Mo Sep 08, 2025 |
+| PS02 - [Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Th Sep 18, 2025 |
+| PS03 - Built-In Data Types                                                                                          | TBD             |
 
 ## Log
 
@@ -59,20 +59,25 @@ Details for future classes are tentative.
   - getting started with GitHub
   - how Java works (roughly) + Program development process
   - if time: command line arguments examples and exercises
-  - assign: PS02 Hello World
 - Th Sep 11: no class (floater 6)
 - Fr Sep 12:
   - if needed: command line arguments examples and exercises
-  - another look at `git`, how to submit problem sets
 
 ### Week 4: Sep 15 - Sep 19
 
-- Mo Sep 15: first look at Java built-in data types
-  - due: PS02 Hello World
+- Mo Sep 15:
+  - finish simulation presentations
+  - assign: PS02 Hello World
+  - another look at `git`; how to submit problem sets
 - Tu Sep 16:
-- We Sep 17:
+  - first look at Java built-in data types
+  - variables
+- We Sep 17: type conversions
 - Th Sep 18:
-- Fr Sep 19:
+  - due: PS02 Hello World
+  - assign: PS03 Built-In Data Types
+  - finish type conversion exercises / work on PS03
+- Fr Sep 19: no class (Hall Fest)
 
 ### Week 5: Sep 22 - Sep 26
 
