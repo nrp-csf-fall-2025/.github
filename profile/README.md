@@ -10,7 +10,7 @@
 | :------------------------------------------------------------------------------------------------------------------ | :-------------- |
 | [PS00 - Create a GitHub account](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS00_github_account.pdf) | Mo Aug 25, 2025 |
 | [PS01 - Scratch Simulation](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS01_scratch_simulation.pdf)  | Mo Sep 08, 2025 |
-| [PS02 - Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Th Sep 18, 2025 |
+| [PS02 - Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Mo Sep 22, 2025 |
 | PS03 - Built-In Data Types                                                                                          | TBD             |
 
 ## Log
@@ -67,16 +67,15 @@ Details for future classes are tentative.
 
 - Mo Sep 15:
   - finish simulation presentations
+- Tu Sep 16:
   - assign: PS02 Hello World
   - another look at `git`; how to submit problem sets
-- Tu Sep 16:
+- We Sep 17:
+  - a few more minutes about how to submit PS02
   - first look at Java built-in data types
   - variables
-- We Sep 17: type conversions
 - Th Sep 18:
-  - due: PS02 Hello World
-  - assign: PS03 Built-In Data Types
-  - finish type conversion exercises / work on PS03
+  - continue built-in data types
 - Fr Sep 19: no class (Hall Fest)
 
 ### Week 5: Sep 22 - Sep 26
