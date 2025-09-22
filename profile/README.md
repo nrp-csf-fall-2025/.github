@@ -11,6 +11,7 @@
 | [PS00 - Create a GitHub account](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS00_github_account.pdf) | Mo Aug 25, 2025 |
 | [PS01 - Scratch Simulation](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS01_scratch_simulation.pdf)  | Mo Sep 08, 2025 |
 | [PS02 - Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Mo Sep 22, 2025 |
+| Test 01 - Java Dev Process, Data Types and Basic I/O                                                                | Th Sep 25, 2025 |
 | PS03 - Built-In Data Types                                                                                          | TBD             |
 
 ## Log
@@ -80,7 +81,31 @@ Details for future classes are tentative.
 
 ### Week 5: Sep 22 - Sep 26
 
+- Mo Sep 22:
+  - due: PS02 Hello World
+  - finish overview of built-in data types
+  - type conversions
+- Tu Sep 23:
+  - if needed: continue type conversions
+  - assign: PS03 Built-In Data Types
+  - crowd-sourced notes:
+    - Java development process
+    - basic structure of a Java program
+    - variables
+    - built-in data types,
+    - basic I/O
+- We Sep 24: no class (floater 6)
+- Th Sep 25:
+  - Test 1: Java basics, built-in data types, and basic input/output
+  - If you finish early, work on PS03
+- Fr Sep 26:
+  - last Scratch simulation presentations
+  - conditionals in Java
+
 ### Week 6: Sep 29 - Oct 3
+
+- Mo Sep 29:
+  - due: PS03 Built-In Data Types
 
 ### Week 7: Oct 6 - Oct 10
 
