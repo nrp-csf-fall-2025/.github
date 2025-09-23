@@ -11,8 +11,8 @@
 | [PS00 - Create a GitHub account](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS00_github_account.pdf) | Mo Aug 25, 2025 |
 | [PS01 - Scratch Simulation](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS01_scratch_simulation.pdf)  | Mo Sep 08, 2025 |
 | [PS02 - Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Mo Sep 22, 2025 |
-| Test 01 - Java Dev Process, Data Types and Basic I/O                                                                | Th Sep 25, 2025 |
-| PS03 - Built-In Data Types                                                                                          | TBD             |
+| Test 01 - Java Dev Process, Data Types and Basic I/O                                                                | Fr Sep 26, 2025 |
+| [PS03 - Built-In Data Types](https://classroom.github.com/a/0aF_vsH-)                                               | Tu Sep 30, 2025 |
 
 ## Log
 
@@ -84,11 +84,9 @@ Details for future classes are tentative.
 - Mo Sep 22:
   - due: PS02 Hello World
   - finish overview of built-in data types
-  - type conversions
 - Tu Sep 23:
-  - if needed: continue type conversions
-  - assign: PS03 Built-In Data Types
-  - crowd-sourced notes:
+  - type conversions
+  - review:
     - Java development process
     - basic structure of a Java program
     - variables
@@ -96,15 +94,17 @@ Details for future classes are tentative.
     - basic I/O
 - We Sep 24: no class (floater 6)
 - Th Sep 25:
-  - Test 1: Java basics, built-in data types, and basic input/output
-  - If you finish early, work on PS03
+  - if needed: finish review
+  - assign: PS03 Built-In Data Types
 - Fr Sep 26:
-  - last Scratch simulation presentations
-  - conditionals in Java
+  - Test 1: Java basics, built-in data types, and basic input/output
 
 ### Week 6: Sep 29 - Oct 3
 
 - Mo Sep 29:
+  - last Scratch simulation presentations
+  - conditionals in Java
+- Tu Sep 30:
   - due: PS03 Built-In Data Types
 
 ### Week 7: Oct 6 - Oct 10
