@@ -12,7 +12,7 @@
 | [PS01 - Scratch Simulation](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS01_scratch_simulation.pdf)  | Mo Sep 08, 2025 |
 | [PS02 - Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Mo Sep 22, 2025 |
 | Test 01 - Java Dev Process, Data Types and Basic I/O                                                                | Fr Sep 26, 2025 |
-| [PS03 - Built-In Data Types](https://classroom.github.com/a/rrznLw6v)                                               | Tu Sep 30, 2025 |
+| [PS03 - Built-In Data Types](https://classroom.github.com/a/rrznLw6v)                                               | Fr Oct 03, 2025 |
 
 ## Log
 
