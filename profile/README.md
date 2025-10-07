@@ -116,6 +116,14 @@ Details for future classes are tentative.
 
 ### Week 7: Oct 6 - Oct 10
 
+- Mo Oct 6: no class (floater 6)
+- Tu Oct 7: conditionals
+- We Oct 8:
+  - (if needed) finish conditionals
+  - while loops
+- Th Oct 9:
+  - mini test: conditionals
+  - finish while loops
 - Fr Oct 10: no class (Columbus Day break)
 
 ### Week 8: Oct 13 - Oct 17
