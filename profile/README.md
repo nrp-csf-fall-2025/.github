@@ -103,8 +103,15 @@ Details for future classes are tentative.
 
 - Mo Sep 29:
   - last Scratch simulation presentations
-  - conditionals in Java
+  - work day: PS03
 - Tu Sep 30:
+  - review Test 1
+  - work day: PS03
+- We Oct 1:
+  - work day: PS03, test remediation
+- Th Oct 2:
+  - work day: PS03, test remediation
+- Fr Oct 3: no class (HS trips, tests)
   - due: PS03 Built-In Data Types
 
 ### Week 7: Oct 6 - Oct 10
