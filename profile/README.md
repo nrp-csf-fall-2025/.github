@@ -129,6 +129,14 @@ Details for future classes are tentative.
 ### Week 8: Oct 13 - Oct 17
 
 - Mo Oct 13: no class (Columbus Day break)
+- Tu Oct 14:
+  - `for` loops
+  - `for` vs. `while` loops
+- We Oct 15:
+  - nested loops
+  - technical communication practice: convert binary
+- Th Oct 16: Gambler's Ruin simulation (groups)
+- Fr Oct 17: PS04 assigned
 
 ### Week 9: Oct 20 - Oct 24
 
