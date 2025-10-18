@@ -136,7 +136,7 @@ Details for future classes are tentative.
   - nested loops
   - technical communication practice: convert binary
 - Th Oct 16: Gambler's Ruin simulation (groups)
-- Fr Oct 17: PS04 assigned
+- Fr Oct 17: videos: lying AI
 
 ### Week 9: Oct 20 - Oct 24
 
