@@ -13,6 +13,7 @@
 | [PS02 - Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Mo Sep 22, 2025 |
 | Test 01 - Java Dev Process, Data Types and Basic I/O                                                                | Fr Sep 26, 2025 |
 | [PS03 - Built-In Data Types](https://classroom.github.com/a/rrznLw6v)                                               | Fr Oct 03, 2025 |
+| [PS04 - Conditionals and Loops](https://classroom.github.com/a/sHw2lPI4)                                            | Mo Oct 28, 2025 |
 
 ## Log
 
@@ -139,6 +140,14 @@ Details for future classes are tentative.
 - Fr Oct 17: videos: lying AI
 
 ### Week 9: Oct 20 - Oct 24
+
+- Mo Oct 20: no class (floater 6)
+- Tu Oct 21: work on Gambler's Ruin simulation
+- We Oct 22:
+  - conclude Gambler's Ruin simulation
+  - assign PS04: Conditionals and Loops
+- Th Oct 23: introduce arrays
+- Fr Oct 24: practice arrays (card deck exercises) OR work day for PS04
 
 ### Week 10: Oct 27 - Oct 31
 
