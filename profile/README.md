@@ -151,6 +151,14 @@ Details for future classes are tentative.
 
 ### Week 10: Oct 27 - Oct 31
 
+- Mo Oct 27:
+  - PS04 work day
+  - review for test
+- Tu Oct 28: introduce arrays
+- We Oct 29: Test 2 (conditionals and loops)
+- Th Oct 30: no class (floater 6)
+- Fr Oct 31: practice arrays (card deck exercises)
+
 ### Week 11: Nov 3 - Nov 7
 
 ### Week 12: Nov 10 - Nov 14
