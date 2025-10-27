@@ -146,8 +146,8 @@ Details for future classes are tentative.
 - We Oct 22:
   - conclude Gambler's Ruin simulation
   - assign PS04: Conditionals and Loops
-- Th Oct 23: introduce arrays
-- Fr Oct 24: practice arrays (card deck exercises) OR work day for PS04
+- Th Oct 23: PS04 work day
+- Fr Oct 24: PS04 work day
 
 ### Week 10: Oct 27 - Oct 31
 
