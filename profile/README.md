@@ -14,6 +14,7 @@
 | Test 01 - Java Dev Process, Data Types and Basic I/O                                                                | Fr Sep 26, 2025 |
 | [PS03 - Built-In Data Types](https://classroom.github.com/a/rrznLw6v)                                               | Fr Oct 03, 2025 |
 | [PS04 - Conditionals and Loops](https://classroom.github.com/a/sHw2lPI4)                                            | Mo Oct 28, 2025 |
+| Test 02 - Conditionals and Loops                                                                                    | Mo Nov 03, 2025 |
 
 ## Log
 
@@ -155,11 +156,13 @@ Details for future classes are tentative.
   - PS04 work day
   - review for test
 - Tu Oct 28: introduce arrays
-- We Oct 29: Test 2 (conditionals and loops)
+- We Oct 29: practice arrays (card deck exercises)
 - Th Oct 30: no class (floater 6)
-- Fr Oct 31: practice arrays (card deck exercises)
+- Fr Oct 31: study day
 
 ### Week 11: Nov 3 - Nov 7
+
+- Mo Nov 3: Test 2 (conditionals and loops)
 
 ### Week 12: Nov 10 - Nov 14
 
