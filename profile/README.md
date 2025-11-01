@@ -156,7 +156,7 @@ Details for future classes are tentative.
   - PS04 work day
   - review for test
 - Tu Oct 28: introduce arrays
-- We Oct 29: practice arrays (card deck exercises)
+- We Oct 29: finish array introduction
 - Th Oct 30: no class (floater 6)
 - Fr Oct 31: study day
 
