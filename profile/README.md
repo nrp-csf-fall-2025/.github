@@ -13,8 +13,14 @@
 | [PS02 - Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Mo Sep 22, 2025 |
 | Test 01 - Java Dev Process, Data Types and Basic I/O                                                                | Fr Sep 26, 2025 |
 | [PS03 - Built-In Data Types](https://classroom.github.com/a/rrznLw6v)                                               | Fr Oct 03, 2025 |
-| [PS04 - Conditionals and Loops](https://classroom.github.com/a/sHw2lPI4)                                            | Mo Oct 28, 2025 |
-| Test 02 - Conditionals and Loops                                                                                    | Mo Nov 03, 2025 |
+| [PS04 - Conditionals and Loops](https://classroom.github.com/a/sHw2lPI4)                                            | Mo Oct 27, 2025 |
+| Test 02 - Conditionals and Loops                                                                                    | Th Nov 06, 2025 |
+| PS05 - Simulations (More Conditoinals and Loops)                                                                    | Mo Nov 10, 2025 |
+| Test 03 - Arrays                                                                                                    | Mo Nov 17, 2025 |
+| PS06                                                                                                                | Mo Nov 17, 2025 |
+| Test 04                                                                                                             | Tu Nov 25, 2025 |
+| Test 05                                                                                                             | Tu Dec 09, 2025 |
+| Final Exam                                                                                                          | Fr Dec 12, 2025 |
 
 ## Log
 
@@ -154,6 +160,7 @@ Details for future classes are tentative.
 
 - Mo Oct 27:
   - PS04 work day
+  - PS04 due
   - review for test
 - Tu Oct 28: introduce arrays
 - We Oct 29: finish array introduction
@@ -162,24 +169,62 @@ Details for future classes are tentative.
 
 ### Week 11: Nov 3 - Nov 7
 
-- Mo Nov 3: Test 2 (conditionals and loops)
+- Mo Nov 3: ~Test 2 (conditionals and loops)~ (thrown out)
+- Tu Nov 4: assign PS05
+- We Nov 5: (short class -- Hall Fest) PS05 work day
+- Th Nov 6: Test 2 redux
+- Fr Nov 7: practice arrays
+  - average, min, max
+  - card deck exercises
 
 ### Week 12: Nov 10 - Nov 14
 
+- Mo Nov 10:
+  - PS05 due
+  - PS06 assigned
+  - review Test 2
+  - introduce two-dimensional arrays
+- Tu Nov 11: no class (floater 6)
+- We Nov 12: two-dimensional arrays
+- Th Nov 13:
+  - two-dimensional arrays
+  - recap arrays
+- Fr Nov 14: PS06 work day
+
 ### Week 13: Nov 17 - Nov 21
+
+- Mo Nov 17:
+  - Test 3 (arrays)
+  - PS06 due
+- Tu Nov 18:
+- We Nov 19:
+- Th Nov 20:
+- Fr Nov 21: no class (floater 6)
 
 ### Week 14: Nov 24 - Nov 28
 
-- Mo Nov 24
-- Tu Nov 25
+- Mo Nov 24:
+- Tu Nov 25: Test 4
 - We Nov 26 - Fr Nov 30: no class (Thanksgiving break)
 
 ### Week 15: Dec 1 - Dec 5
 
+- Mo Dec 1:
+- Tu Dec 2:
+- We Dec 3:
+- Th Dec 4:
+- Fr Dec 5:
+
 ### Week 16: Dec 8 - Dec 12
+
+- Mo Dec 8: no class (floater 6)
+- Tu Dec 9: Test 5
+- We Dec 10:
+- Th Dec 11:
+- Fr Dec 12: Final Exam
 
 ### Week 17: Dec 15 - Dec 19
 
-- Mo Dec 15: review for final exam
-- Tu Dec 16: final exam
+- Mo Dec 15:
+- Tu Dec 16:
 - We Dec 17 - Fr Dec 19: no class (finals)
