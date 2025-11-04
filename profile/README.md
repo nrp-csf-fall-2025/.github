@@ -15,7 +15,7 @@
 | [PS03 - Built-In Data Types](https://classroom.github.com/a/rrznLw6v)                                               | Fr Oct 03, 2025 |
 | [PS04 - Conditionals and Loops](https://classroom.github.com/a/sHw2lPI4)                                            | Mo Oct 27, 2025 |
 | Test 02 - Conditionals and Loops                                                                                    | Th Nov 06, 2025 |
-| PS05 - Simulations (More Conditoinals and Loops)                                                                    | Mo Nov 10, 2025 |
+| [PS05 - Simulations (More Conditionals and Loops)](https://classroom.github.com/a/_rHTpuwQ)                         | Mo Nov 10, 2025 |
 | Test 03 - Arrays                                                                                                    | Mo Nov 17, 2025 |
 | PS06                                                                                                                | Mo Nov 17, 2025 |
 | Test 04                                                                                                             | Tu Nov 25, 2025 |
