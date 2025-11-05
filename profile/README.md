@@ -170,12 +170,12 @@ Details for future classes are tentative.
 ### Week 11: Nov 3 - Nov 7
 
 - Mo Nov 3: ~Test 2 (conditionals and loops)~ (thrown out)
-- Tu Nov 4: assign PS05
+- Tu Nov 4:
+  - assign PS05
+  - review for test retake
 - We Nov 5: (short class -- Hall Fest) PS05 work day
 - Th Nov 6: Test 2 redux
-- Fr Nov 7: practice arrays
-  - average, min, max
-  - card deck exercises
+- Fr Nov 7: PS05 work day
 
 ### Week 12: Nov 10 - Nov 14
 
@@ -183,7 +183,9 @@ Details for future classes are tentative.
   - PS05 due
   - PS06 assigned
   - review Test 2
-  - introduce two-dimensional arrays
+  - practice arrays
+    - average, min, max
+    - card deck exercises
 - Tu Nov 11: no class (floater 6)
 - We Nov 12: two-dimensional arrays
 - Th Nov 13:
