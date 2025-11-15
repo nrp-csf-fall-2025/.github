@@ -17,7 +17,7 @@
 | Test 02 - Conditionals and Loops                                                                                    | Th Nov 06, 2025 |
 | [PS05 - Simulations (More Conditionals and Loops)](https://classroom.github.com/a/_rHTpuwQ)                         | Mo Nov 10, 2025 |
 | Test 03 - Arrays                                                                                                    | Mo Nov 17, 2025 |
-| PS06                                                                                                                | Mo Nov 17, 2025 |
+| PS06                                                                                                                | TBD             |
 | Test 04                                                                                                             | Tu Nov 25, 2025 |
 | Test 05                                                                                                             | Tu Dec 09, 2025 |
 | Final Exam                                                                                                          | Fr Dec 12, 2025 |
@@ -180,24 +180,18 @@ Details for future classes are tentative.
 ### Week 12: Nov 10 - Nov 14
 
 - Mo Nov 10:
-  - PS05 due
-  - PS06 assigned
   - review Test 2
-  - practice arrays
-    - average, min, max
-    - card deck exercises
+  - practice arrays: average, min, max
 - Tu Nov 11: no class (floater 6)
-- We Nov 12: two-dimensional arrays
-- Th Nov 13:
-  - two-dimensional arrays
-  - recap arrays
-- Fr Nov 14: PS06 work day
+  - PS05 due
+- We Nov 12: practice arrays: build a deck of cards
+- Th Nov 13: practice arrays: shuffle and deal from a deck
+- Fr Nov 14: AMA working in tech
 
 ### Week 13: Nov 17 - Nov 21
 
 - Mo Nov 17:
   - Test 3 (arrays)
-  - PS06 due
 - Tu Nov 18:
 - We Nov 19:
 - Th Nov 20:
