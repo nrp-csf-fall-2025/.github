@@ -16,8 +16,8 @@
 | [PS04 - Conditionals and Loops](https://classroom.github.com/a/sHw2lPI4)                                            | Mo Oct 27, 2025 |
 | Test 02 - Conditionals and Loops                                                                                    | Th Nov 06, 2025 |
 | [PS05 - Simulations (More Conditionals and Loops)](https://classroom.github.com/a/_rHTpuwQ)                         | Mo Nov 10, 2025 |
-| Test 03 - Arrays                                                                                                    | Mo Nov 19, 2025 |
-| PS06                                                                                                                | Tu Nov 25, 2025 |
+| Test 03 - Arrays                                                                                                    | Mo Nov 24, 2025 |
+| PS06                                                                                                                | Mo Nov 24, 2025 |
 | Test 04                                                                                                             | Tu Dec 09, 2025 |
 | Final Exam                                                                                                          | Fr Dec 12, 2025 |
 
@@ -193,20 +193,17 @@ Details for future classes are tentative.
   - 1-dimensional arrays review
 - Tu Nov 18:
   - finish 1D arrays review
-  - if time, start 2D arrays
-- We Nov 19:
-  - Test 3 (1D arrays)
-- Th Nov 20:
-  - review Test 3
-  - PS06 work day
+  - "for-each" loops
+- We Nov 19: PS06 work day
+- Th Nov 20: PS06 work day
 - Fr Nov 21: no class (floater 6)
 
 ### Week 14: Nov 24 - Nov 28
 
-- Mo Nov 24: PS06 work day
-- Tu Nov 25:
+- Mo Nov 24:
+  - Test 3 (1D arrays)
   - PS06 due
-  - "movie" day
+- Tu Nov 25: "movie" day
 - We Nov 26 - Fr Nov 30: no class (Thanksgiving break)
 
 ### Week 15: Dec 1 - Dec 5
