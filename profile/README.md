@@ -17,7 +17,7 @@
 | Test 02 - Conditionals and Loops                                                                                    | Th Nov 06, 2025 |
 | [PS05 - Simulations (More Conditionals and Loops)](https://classroom.github.com/a/_rHTpuwQ)                         | Mo Nov 10, 2025 |
 | Test 03 - Arrays                                                                                                    | Mo Nov 24, 2025 |
-| PS06                                                                                                                | Mo Nov 24, 2025 |
+| [PS06 - Arrays](https://classroom.github.com/a/ENdgkclL)                                                            | Mo Nov 24, 2025 |
 | Test 04                                                                                                             | Tu Dec 09, 2025 |
 | Final Exam                                                                                                          | Fr Dec 12, 2025 |
 
