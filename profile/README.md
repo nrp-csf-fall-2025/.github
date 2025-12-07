@@ -209,10 +209,15 @@ Details for future classes are tentative.
 ### Week 15: Dec 1 - Dec 5
 
 - Mo Dec 1:
+  - finish Test 3
 - Tu Dec 2:
+  - intro 2-D arrays
 - We Dec 3:
+  - finish intro to 2-D arrays
 - Th Dec 4:
+  - lab: minesweeper
 - Fr Dec 5:
+  - lab: minesweeper
 
 ### Week 16: Dec 8 - Dec 12
 
