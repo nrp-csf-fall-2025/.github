@@ -222,13 +222,15 @@ Details for future classes are tentative.
 ### Week 16: Dec 8 - Dec 12
 
 - Mo Dec 8: no class (floater 6)
-- Tu Dec 9: Test 4
-- We Dec 10:
-- Th Dec 11:
-- Fr Dec 12: Final Exam
+- Tu Dec 9:
+  - present minesweeper lab (optional)
+  - work day
+- We Dec 10: work day
+- Th Dec 11: work day
+- Fr Dec 12: work day
 
 ### Week 17: Dec 15 - Dec 19
 
-- Mo Dec 15:
-- Tu Dec 16:
+- Mo Dec 15: self-avoiding random walker lab presentations
+- Tu Dec 16: self-avoiding random walker lab presentations
 - We Dec 17 - Fr Dec 19: no class (finals)
