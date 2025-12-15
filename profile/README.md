@@ -6,20 +6,20 @@
 
 ## Assignments & Tests
 
-| Assignment                                                                                                          | Due             |
-| :------------------------------------------------------------------------------------------------------------------ | :-------------- |
-| [PS00 - Create a GitHub account](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS00_github_account.pdf) | Mo Aug 25, 2025 |
-| [PS01 - Scratch Simulation](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS01_scratch_simulation.pdf)  | Mo Sep 08, 2025 |
-| [PS02 - Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Mo Sep 22, 2025 |
-| Test 01 - Java Dev Process, Data Types and Basic I/O                                                                | Fr Sep 26, 2025 |
-| [PS03 - Built-In Data Types](https://classroom.github.com/a/rrznLw6v)                                               | Fr Oct 03, 2025 |
-| [PS04 - Conditionals and Loops](https://classroom.github.com/a/sHw2lPI4)                                            | Mo Oct 27, 2025 |
-| Test 02 - Conditionals and Loops                                                                                    | Th Nov 06, 2025 |
-| [PS05 - Simulations (More Conditionals and Loops)](https://classroom.github.com/a/_rHTpuwQ)                         | Mo Nov 10, 2025 |
-| Test 03 - Arrays                                                                                                    | Mo Nov 24, 2025 |
-| [PS06 - Arrays](https://classroom.github.com/a/ENdgkclL)                                                            | Mo Nov 24, 2025 |
-| Test 04                                                                                                             | Tu Dec 09, 2025 |
-| Final Exam                                                                                                          | Fr Dec 12, 2025 |
+| Assignment                                                                                                          | Due              |
+| :------------------------------------------------------------------------------------------------------------------ | :--------------- |
+| [PS00 - Create a GitHub account](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS00_github_account.pdf) | Mo Aug 25, 2025  |
+| [PS01 - Scratch Simulation](https://github.com/nrp-csf-fall-2025/.github/blob/main/ps/PS01_scratch_simulation.pdf)  | Mo Sep 08, 2025  |
+| [PS02 - Hello World](https://classroom.github.com/a/0z9hdsgf)                                                       | Mo Sep 22, 2025  |
+| Test 01 - Java Dev Process, Data Types and Basic I/O                                                                | Fr Sep 26, 2025  |
+| [PS03 - Built-In Data Types](https://classroom.github.com/a/rrznLw6v)                                               | Fr Oct 03, 2025  |
+| [PS04 - Conditionals and Loops](https://classroom.github.com/a/sHw2lPI4)                                            | Mo Oct 27, 2025  |
+| Test 02 - Conditionals and Loops                                                                                    | Th Nov 06, 2025  |
+| [PS05 - Simulations (More Conditionals and Loops)](https://classroom.github.com/a/_rHTpuwQ)                         | Mo Nov 10, 2025  |
+| Test 03 - Arrays                                                                                                    | Mo Nov 24, 2025  |
+| [PS06 - Arrays](https://classroom.github.com/a/ENdgkclL)                                                            | Mo Nov 24, 2025  |
+| Test 04                                                                                                             | Fr, Dec 12, 2025 |
+| Final Exam                                                                                                          | Mo Dec 15, 2025  |
 
 ## Log
 
@@ -227,7 +227,7 @@ Details for future classes are tentative.
   - work day
 - We Dec 10: work day
 - Th Dec 11: work day
-- Fr Dec 12: work day
+- Fr Dec 12: Test 4 (2-dimensional arrays)
 
 ### Week 17: Dec 15 - Dec 19
 
