@@ -122,7 +122,7 @@ Notes:
   make sure you tackle at least one or two of the extra practice problems (link
   at bottom of the lesson).
 
-1. Label each part of this line of code that declares and intializes an array:
+1. Label each part of this line of code that declares and initializes an array:
    `int[] values = new int[9];`
 2. Suppose you have an array `nums` with 10 values. Show how you'd read its
    first and last values.
