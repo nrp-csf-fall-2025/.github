@@ -54,7 +54,16 @@ mastery.
 
 ### 0. Hello World
 
-- None.
+Notes:
+
+- Skim this course overview. Many course details are not relevant for us, but be
+  sure you understand:
+  - how to run code in the playgrounds
+  - complete the exercises (debuggin practice, practice problems, and
+    lesson-ending "homework" problems)
+  - follow the code walk-throughs and switch between alternate versions
+
+0. No review questions for this lesson.
 
 ### 1. Variables and Types
 
@@ -82,8 +91,8 @@ mastery.
 2. In the code above, why does the first line include a type declaration and the
    second line does not? When does an assignment require a type declaration?
    When may a type declaration be omitted?
-3. Explain this claim: "assignments in Java are evaluated
-   from *right* to *left*." Use a specific example (or two) to illustrate.
+3. Explain this claim: "assignments in Java are evaluated from _right_ to
+   _left_." Use a specific example (or two) to illustrate.
 
 ### 3:Conditional Expressions and Statements
 
@@ -127,7 +136,6 @@ Notes:
 2. Suppose you have an array `nums` with 10 values. Show how you'd read its
    first and last values.
 3. Show how you'd declare and initialize an array of 5 doubles:
-
    1. using the keyword `new`
    2. using an array literal
 
@@ -160,6 +168,11 @@ Notes:
 
 ### 8:Practice with Loops and Algorithms (Checkpoint: Loops)
 
+Notes:
+
+- Answer the debugging practice question at least 5 times to appreciate the
+  various ways you can set up loops to solve even simple problems.
+
 1. What's the difference between `continue` (introduced in this lesson) and
    `break` (introduced in the previous lesson)? When might you use each?
 2. The lesson explores a _design pattern_. Describe the pattern and the type of
@@ -172,7 +185,6 @@ Notes:
    best?)
 2. Write out the pattern or template for defining a function. Be sure to
    include:
-
    - name
    - inputs (aka arguments, parameters); don't forget the necessary type
      information
@@ -240,7 +252,6 @@ Notes:
 
 2. The lesson describes two **very** common patterns when working with arrays:
    the **accumulator** and the **search** patterns. For each, identify:
-
    - what it achieves (its goal)
    - the basic strategy
    - its pieces / components and how they fit together
