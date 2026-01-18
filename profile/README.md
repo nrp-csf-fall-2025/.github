@@ -3,7 +3,9 @@
 - [spring semester syllabus addendum](https://github.com/nrp-csf-fall-2025/.github/blob/main/syllabus-spring-addendum.md)
 - [syllabus](https://github.com/nrp-csf-fall-2025/.github/blob/main/syllabus.md)
 - Lesson Reviews
-  - [Quarter 3, Part A (lessons 0 - 18)](https://github.com/nrp-csf-fall-2025/.github/blob/main/lesson-reviews/00-lesson-reviews-quarter-3A.md)
+  - [Part A (lessons 0 - 18)](https://github.com/nrp-csf-fall-2025/.github/blob/main/lesson-reviews/lesson-reviews-A.md)
+  - [Part B (lessons 19 - 32)](https://github.com/nrp-csf-fall-2025/.github/blob/main/lesson-reviews/lesson-reviews-B.md)
+  - [Part C (lessons 33 - 60)](https://github.com/nrp-csf-fall-2025/.github/blob/main/lesson-reviews/lesson-reviews-C.md)
 
 ## Assignments & Tests
 
