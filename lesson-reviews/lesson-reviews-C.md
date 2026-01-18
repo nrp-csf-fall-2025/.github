@@ -1,4 +1,4 @@
-# Lesson Reviews Quarter 4
+# Lesson Reviews - Part C (Lessons 33 - 60) 
 
 This quarter, there are no preset questions to answer. I've only listed what I
 judge to be key topics. Notebook checks will continue, but it's up to **you** to
