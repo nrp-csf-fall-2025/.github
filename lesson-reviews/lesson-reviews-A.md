@@ -345,7 +345,7 @@ Notes:
 8. Explain the statement: a Java object "combines state and behavior, or data
    and functionality." Examples may help. This is a first step toward producing
    a Feynman Technique-like explanation. I expect you'll have lots of gaps. So
-   an imporant part of your answer may be a list of questions you have about
+   an important part of your answer may be a list of questions you have about
    objects. Framing good questions is an enormously important tool for learning.
 
 ### 15:Algorithms and Strings
