@@ -403,7 +403,7 @@ Notes:
 2. Jot down one or two things you learned from the walk-throughs that you think
    you might be able to use in future problems.
 3. Write an incisive description of your solution to the encryption problem. (2
-   sentences max, but it should capture the essesnce of your solution.)
+   sentences max, but it should capture the essence of your solution.)
 
 ### 18:Multidimensional Arrays (Checkpoint: Multidimensional Arrays)
 
