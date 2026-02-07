@@ -11,9 +11,9 @@
 
 | Assignment                                      | Due            |
 | :---------------------------------------------- | :------------- |
-| Lesson Reviews 1 - 32 & Associated Checkpoints  | Fr Mar 6, 2026 |
+| Lesson Reviews 1 - 27 & Associated Checkpoints  | Fr Mar 6, 2026 |
 | Midterm Exam                                    | Mo Mar 9, 2026 |
-| Lesson Reviews 33 - 60 & Associated Checkpoints | Th May 7, 2026 |
+| Lesson Reviews 28 - 60 & Associated Checkpoints | Th May 7, 2026 |
 | Final Exam                                      | Fr May 8, 2026 |
 
 ## Log
@@ -87,8 +87,8 @@ Details for future classes are tentative.
 ### Week Spring.09: Mar 02 - Mar 06
 
 - Mo Mar 02 (32):
-- Tu Mar 03 (33):
-- We Mar 04 (34): practice midterm
+- Tu Mar 03 (33): practice midterm
+- We Mar 04 (34): review practice midterm 
 - Th Mar 05: no class (floater 6)
 - Fr Mar 06 (35): **final day to complete Q3 checkpoints**
 
