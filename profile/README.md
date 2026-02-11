@@ -3,17 +3,16 @@
 - [spring semester syllabus addendum](https://github.com/nrp-csf-fall-2025/.github/blob/main/syllabus-spring-addendum.md)
 - [syllabus](https://github.com/nrp-csf-fall-2025/.github/blob/main/syllabus.md)
 - Lesson Reviews
-  - [Part A (lessons 0 - 18)](https://github.com/nrp-csf-fall-2025/.github/blob/main/lesson-reviews/lesson-reviews-A.md)
-  - [Part B (lessons 19 - 32)](https://github.com/nrp-csf-fall-2025/.github/blob/main/lesson-reviews/lesson-reviews-B.md)
-  - [Part C (lessons 33 - 60)](https://github.com/nrp-csf-fall-2025/.github/blob/main/lesson-reviews/lesson-reviews-C.md)
+  - [Part A (lessons 0 - 28)](https://github.com/nrp-csf-fall-2025/.github/blob/main/lesson-reviews/lesson-reviews-A.md)
+  - [Part B (lessons 29 - 60)](https://github.com/nrp-csf-fall-2025/.github/blob/main/lesson-reviews/lesson-reviews-B.md)
 
 ## Assignments & Tests
 
 | Assignment                                      | Due            |
 | :---------------------------------------------- | :------------- |
-| Lesson Reviews 1 - 27 & Associated Checkpoints  | Fr Mar 6, 2026 |
+| Lesson Reviews 1 - 28 & Associated Checkpoints  | Fr Mar 6, 2026 |
 | Midterm Exam                                    | Mo Mar 9, 2026 |
-| Lesson Reviews 28 - 60 & Associated Checkpoints | Th May 7, 2026 |
+| Lesson Reviews 29 - 60 & Associated Checkpoints | Th May 7, 2026 |
 | Final Exam                                      | Fr May 8, 2026 |
 
 ## Log

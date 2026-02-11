@@ -449,7 +449,7 @@ Notes:
    non-rectangular and "jagged" two-dimensional arrays (arrays whose inner
    arrays have unequal lengths).
 
-### 18:Imports and Libraries
+### 19:Imports and Libraries
 
 Notes:
 
@@ -475,7 +475,7 @@ Notes:
 3. If you want to import that `Random` class, why do you need to
    `import java.util.Random` instead of just `import Random`?
 
-### 19:Lists and Type Parameters
+### 20:Lists and Type Parameters
 
 Notes:
 
@@ -500,7 +500,7 @@ Notes:
 7. Explain what a _type parameter_ is in Java. Why are they useful? Give
    yourself a few examples.
 
-### 20:Maps and Sets
+### 21:Maps and Sets
 
 Notes:
 
@@ -529,7 +529,7 @@ Notes:
    **interface** type `List`. What's the equivalent **interfaces** for `HashMap`
    and `HashSet`?
 
-### 21:Practice with Collections (Checkpoint: Collections)
+### 22:Practice with Collections (Checkpoint: Collections)
 
 Notes:
 
@@ -547,7 +547,7 @@ Notes:
 2. Show how to use a map as a value in an `ArrayList` (including appropriate
    type information).
 
-### 22:Compilation and Type Inference
+### 23:Compilation and Type Inference
 
 Notes:
 
@@ -566,7 +566,7 @@ Notes:
    and initialize a variable in such a way that the Java compiler will infer its
    type.
 
-### 23:Introduction to Objects
+### 24:Introduction to Objects
 
 Notes:
 
@@ -585,7 +585,7 @@ Notes:
 3. Show how to create an object using the `new` keyword.
 4. Show how to access a property of an object using dot notation.
 
-### 24:Objects, Continued (Checkpoint: Objects I)
+### 25:Objects, Continued (Checkpoint: Objects I)
 
 Notes:
 
@@ -599,7 +599,7 @@ Notes:
    you want to set and access object properties through getter and setter
    methods instead of directly using dot notation?
 
-### 25:Constructors
+### 26:Constructors
 
 1. Show how to define a constructor on a class. Be sure to include naming
    requirements and syntax that are unique to constructors.
@@ -612,7 +612,7 @@ Notes:
    say about constructors? In particular, what is the role of the constructor in
    creating _instances_?
 
-### 26:Encapsulation
+### 27:Encapsulation
 
 1. What do the modifiers `public` and `private` do when applied to a field or
    method?
@@ -623,7 +623,7 @@ Notes:
 5. Update your in-progress Feynman explanation with what you've learned about
    **encapsulation**.
 
-### 27:Static (Checkpoint: Objects II)
+### 28:Static (Checkpoint: Objects II)
 
 Notes:
 

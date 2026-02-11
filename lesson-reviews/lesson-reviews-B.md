@@ -14,7 +14,7 @@ Checkpoints:
 3. Objects III (31)
 4. More to come...
 
-### 28:Data Modeling 1
+### 29:Data Modeling 1
 
 Notes:
 
@@ -37,7 +37,7 @@ Notes:
 
 1. Describe the **process** of building a class to model some entity or process.
 
-### 29:Inheritance (Checkpoint: Inheritance)
+### 30:Inheritance (Checkpoint: Inheritance)
 
 1. Explain what it means for one class to **extend** or **inherit** another?
 2. Suppose you have defined a class `Example` but have not defined any methods
@@ -54,7 +54,7 @@ Notes:
 7. Update your Feynman explanation of objects and classes to include what you've
    learned about inheritance.
 
-### 30:Polymorphism (Checkpoint: Polymorphism)
+### 31:Polymorphism (Checkpoint: Polymorphism)
 
 Notes:
 
@@ -90,7 +90,7 @@ Notes:
    connections, have crisper explanations, etc. Your updated explanation should
    reflect these.
 
-### 31:Equality and Object Copying (Checkpoint: Objects III)
+### 32:Equality and Object Copying (Checkpoint: Objects III)
 
 1. How does the `equals` method inherited from the base `Object` class determine
    equality? Why would that inherited method not typically be very useful?
@@ -105,7 +105,7 @@ Notes:
 5. Write out the pattern for a "copy constructor" (a constructor method that
    returns a copy of a class instance.)
 
-### 32:Data Modeling 2
+### 33:Data Modeling 2
 
 These questions all relate to the series of "Modeling Office Hours"
 walk-throughs.
