@@ -12,7 +12,8 @@ Checkpoints:
 1. Inheritance (29)
 2. Polymorphism (30)
 3. Objects III (31)
-4. More to come...
+4. References (35)
+5. More to come...
 
 ### 29:Data Modeling 1
 
@@ -123,7 +124,42 @@ walk-throughs.
 
 ### 34:References
 
-### 35:References and Polymorphism
+**From this lesson forward, there are no preset questions.** It's your job to
+decide ask good questions, search for answers, and commit what you've learned to
+your notes in a useful way.
+
+Notes:
+
+- The concept of a _reference_ is fundamental to understanding how Java (and
+  other programming languages) work. If it hasn't clicked by the end of the
+  lesson, try to formulate specific questions about what you don't understand.
+  Keep coming back to these questions as you work through subsequent lessons.
+  Independent learners are (1) good at asking questions that target what they
+  don't (yet) understand and (2) comfortable moving forward with an imperfect
+  understanding, trusting that their questions will be answered in time if they
+  keep asking them while pushing forward.
+- While it's not the main point of the lesson, the "swap" pattern is useful and
+  common "in the wild" (and probably on the AP exam).
+- The second "mystery" problem is difficult. Fun, I think, but difficult. Don't
+  get bogged down. If you can't solve it, move on. You won't miss anything
+  essential.
+
+### 35:References and Polymorphism (Checkpoint: References)
+
+Notes:
+
+- Get in the habit of connecting what you're learning to what you already know.
+  In particular, pay attention to new knowledge that seems _not_ to fit with
+  what you already know. Resolving the contradiction can help you correct
+  misunderstandings or deepen what you had only partially understood.
+  - For example, here we see some of the problems we can run into when we use a
+    superclass as the type of a variable that stores a reference to a subclass
+    (e.g., `Object o = new String();`). But in earlier lessons, we were given
+    advice that it's good to "program to an interface", for example, to use
+    `Map` as the type of a variable that stores a reference to a `HashMap`.
+    Isn't that a contradiction? If not, why not?
+- Pay attention to the new ways _references_ pop up in this lesson. Use these
+  new examples to deepen the mental model you're building.
 
 ### 36:Catching Exceptions
 
